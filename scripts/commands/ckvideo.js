@@ -23,28 +23,15 @@ module.exports.run = async ({ api, event, args, client, Users, Threads, __GLOBAL
   var hi = ["--যারা ফুলকে ভালোবাসে তারা নিজেরাই এক একটা ফুল 💕🌸 --Sagor-𝐈𝐬𝐥𝐚𝐦--"];
   var know = hi[Math.floor(Math.random() * hi.length)];
   var link = [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "https://drive.google.com/uc?id=bRZXRR5aKXjIqT7XFU9v6BOctZhkefu",
-    "https://drive.google.com/uc?id=GxEnIsaUbWblbuW0NRNd5u1N9G",
-    "https://drive.google.com/uc?id=bRZXRR5aKXjIqT7XFU9v6BOctZhkefu",
-    "https://drive.google.com/uc?id=Mi0nYYfHqQKsXXhmpjSPq-gPCp0_a_d",
-    "https://drive.google.com/uc?id=iOEyXA0r0DiCM7iSKF4PFxZLLhJSWY5",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "https://i.imgur.com/RQPW4J4.mp4",
+    "https://i.imgur.com/GICmTcH.mp4",
+    "https://i.imgur.com/N7N36mP.mp4",
+    "https://i.imgur.com/Bc6fF5c.mp4",
+    "https://i.imgur.com/2Ex7jc2.mp4",
+    "https://i.imgur.com/NIwlzYS.mp4",
+    "https://i.imgur.com/2f1Ldc4.mp4",
+    "https://i.imgur.com/8NOCa6Q.mp4",
+    "https://i.imgur.com/0Nqkbez.mp4"
   ];
 
   var callback = () => {
