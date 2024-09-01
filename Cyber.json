@@ -7,7 +7,7 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "Sagor 𝐂𝐡𝐚𝐭",
-  "PREFIX": "?",
+  "PREFIX": "/",
   "OPERATOR": [
     "100048281103451",
     ""
