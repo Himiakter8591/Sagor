@@ -4,14 +4,14 @@ const axios = require("axios");
 const path = require("path");
 
 module.exports.config = {
-  name: "bot",
+  name: "bot1",
   version: "1.0.1",
   permission: 0,
   credits: "Islamick Cyber Chat",
   prefix: false,
   description: "goibot",
-  category: "Noprefix",
-  usages: "noprefix",
+  category: "user",
+  usages: "",
   cooldowns: 5,
 };
 
